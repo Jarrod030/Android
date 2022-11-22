@@ -619,9 +619,15 @@ case R.id.menu_sort2:
 ```
 
 
+
+
+#### 功能截图:
+
+### 
+
+![](http://ww1.sinaimg.cn/large/005LTKwJgy1g36uxmy9hgj30a60hamx8.jpg)
+
 ### 文本字体颜色修改:
-
-
 
 #### 关键代码:
 
